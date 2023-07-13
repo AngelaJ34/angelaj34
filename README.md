@@ -6,7 +6,7 @@
 
 <h2> :electric_plug: IT Projects:</h2>
 [Windows Defender Firewall](https://github.com/AngelaJ34/Firewall_Rule_Updates)
-
+This site was built using [GitHub Pages](https://pages.github.com/).
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
