@@ -5,10 +5,9 @@
 
 
 <h2> :electric_plug: IT Projects:</h2>
-Windows Defender Firewall - (https://github.com/AngelaJ34/Firewall_Rule_Updates)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Block & Update Malicious IP's Application (Windows Defender Firewall)](https://github.com/AngelaJ34/Firewall_Rule_Updates)
 
 
 <h2> Connect with me:</h2>
