@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Angela! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Hi there, I'm Angela! <br/><a href="https://github.com/"></a>
 
 <h2> Cyber Security Projects:</h2>
 
