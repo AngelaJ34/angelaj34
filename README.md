@@ -5,7 +5,7 @@
 
 
 <h2> :electric_plug: IT Projects:</h2>
-- [Windows Defender Firewall]: (https://github.com/AngelaJ34/Firewall_Rule_Updates)
+- [Windows Defender Firewall](https://github.com/AngelaJ34/Firewall_Rule_Updates)
 
 <h2> Connect with me:</h2>
 
